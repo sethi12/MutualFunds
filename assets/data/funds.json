@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Alpha Growth Fund",
+    "nav": 125.45,
+    "return1Y": 12.3,
+    "aum": 1500,
+    "navHistory": [110, 112, 115, 117, 120, 123, 125, 126, 124, 125, 125.45],
+    "monthlyReturns": {
+      "Jan": 3.5,
+      "Feb": 2.1,
+      "Mar": -1.2,
+      "Apr": 0.0,
+      "May": 4.3,
+      "Jun": 5.0,
+      "Jul": -3.0,
+      "Aug": 2.2,
+      "Sep": 1.5,
+      "Oct": 0.5,
+      "Nov": 3.0,
+      "Dec": 4.1
+    }
+  },
+  {
+    "name": "Beta Income Fund",
+    "nav": 98.75,
+    "return1Y": 8.7,
+    "aum": 2300,
+    "navHistory": [95, 96, 97, 98, 99, 100, 99.5, 98.7, 98.75, 98.7, 98.75],
+    "monthlyReturns": {
+      "Jan": 1.0,
+      "Feb": 1.2,
+      "Mar": 0.8,
+      "Apr": 0.0,
+      "May": 0.5,
+      "Jun": 1.0,
+      "Jul": 1.5,
+      "Aug": -0.5,
+      "Sep": 0.2,
+      "Oct": 0.3,
+      "Nov": 1.1,
+      "Dec": 0.7
+    }
+  },
+  {
+    "name": "Gamma Balanced Fund",
+    "nav": 140.10,
+    "return1Y": 9.5,
+    "aum": 1800,
+    "navHistory": [130, 132, 134, 135, 137, 139, 140, 141, 139, 140, 140.1],
+    "monthlyReturns": {
+      "Jan": 2.0,
+      "Feb": 2.3,
+      "Mar": -0.8,
+      "Apr": 1.1,
+      "May": 2.9,
+      "Jun": 3.2,
+      "Jul": -1.2,
+      "Aug": 0.5,
+      "Sep": 1.7,
+      "Oct": 0.8,
+      "Nov": 2.5,
+      "Dec": 3.0
+    }
+  },
+  {
+    "name": "Delta Equity Fund",
+    "nav": 110.30,
+    "return1Y": 11.2,
+    "aum": 2100,
+    "navHistory": [100, 102, 105, 107, 108, 109, 110, 110, 110, 110.1, 110.3],
+    "monthlyReturns": {
+      "Jan": 3.3,
+      "Feb": 2.8,
+      "Mar": -1.1,
+      "Apr": 0.7,
+      "May": 4.1,
+      "Jun": 4.5,
+      "Jul": -2.0,
+      "Aug": 1.1,
+      "Sep": 1.3,
+      "Oct": 0.4,
+      "Nov": 3.2,
+      "Dec": 3.9
+    }
+  },
+  {
+    "name": "Epsilon Large Cap Fund",
+    "nav": 135.90,
+    "return1Y": 13.0,
+    "aum": 2500,
+    "navHistory": [120, 121, 123, 125, 127, 130, 133, 134, 135, 135.5, 135.9],
+    "monthlyReturns": {
+      "Jan": 3.8,
+      "Feb": 3.1,
+      "Mar": -0.7,
+      "Apr": 1.5,
+      "May": 5.0,
+      "Jun": 5.5,
+      "Jul": -1.8,
+      "Aug": 2.7,
+      "Sep": 2.0,
+      "Oct": 0.9,
+      "Nov": 3.7,
+      "Dec": 4.3
+    }
+  },
+  {
+    "name": "Zeta Small Cap Fund",
+    "nav": 98.20,
+    "return1Y": 14.1,
+    "aum": 1700,
+    "navHistory": [85, 87, 90, 92, 95, 97, 98, 98, 97.5, 98, 98.2],
+    "monthlyReturns": {
+      "Jan": 4.0,
+      "Feb": 3.6,
+      "Mar": -1.5,
+      "Apr": 0.3,
+      "May": 5.4,
+      "Jun": 6.0,
+      "Jul": -2.5,
+      "Aug": 3.0,
+      "Sep": 2.2,
+      "Oct": 1.0,
+      "Nov": 4.0,
+      "Dec": 4.8
+    }
+  },
+  {
+    "name": "Eta Mid Cap Fund",
+    "nav": 123.00,
+    "return1Y": 10.5,
+    "aum": 2200,
+    "navHistory": [110, 112, 115, 117, 120, 122, 123, 123, 122.5, 123, 123.0],
+    "monthlyReturns": {
+      "Jan": 3.0,
+      "Feb": 2.5,
+      "Mar": -0.9,
+      "Apr": 1.0,
+      "May": 3.8,
+      "Jun": 4.2,
+      "Jul": -1.0,
+      "Aug": 1.5,
+      "Sep": 1.4,
+      "Oct": 0.7,
+      "Nov": 3.1,
+      "Dec": 3.5
+    }
+  },
+  {
+    "name": "Theta Tax Saver Fund",
+    "nav": 105.50,
+    "return1Y": 9.8,
+    "aum": 1900,
+    "navHistory": [95, 96, 98, 99, 100, 102, 104, 105, 105, 105.3, 105.5],
+    "monthlyReturns": {
+      "Jan": 2.8,
+      "Feb": 2.3,
+      "Mar": -1.0,
+      "Apr": 0.8,
+      "May": 3.0,
+      "Jun": 3.6,
+      "Jul": -1.3,
+      "Aug": 1.2,
+      "Sep": 1.1,
+      "Oct": 0.5,
+      "Nov": 2.8,
+      "Dec": 3.2
+    }
+  },
+  {
+    "name": "Iota Balanced Fund",
+    "nav": 130.75,
+    "return1Y": 11.0,
+    "aum": 2400,
+    "navHistory": [120, 121, 123, 125, 127, 129, 130, 130, 129.5, 130, 130.75],
+    "monthlyReturns": {
+      "Jan": 3.6,
+      "Feb": 3.0,
+      "Mar": -0.8,
+      "Apr": 1.2,
+      "May": 4.0,
+      "Jun": 4.5,
+      "Jul": -1.5,
+      "Aug": 2.0,
+      "Sep": 1.7,
+      "Oct": 0.8,
+      "Nov": 3.4,
+      "Dec": 3.9
+    }
+  },
+  {
+    "name": "Kappa Conservative Fund",
+    "nav": 115.20,
+    "return1Y": 7.5,
+    "aum": 1600,
+    "navHistory": [105, 106, 108, 109, 110, 112, 114, 115, 115, 115.1, 115.2],
+    "monthlyReturns": {
+      "Jan": 1.5,
+      "Feb": 1.2,
+      "Mar": 0.5,
+      "Apr": 0.0,
+      "May": 1.8,
+      "Jun": 2.2,
+      "Jul": 0.0,
+      "Aug": 1.0,
+      "Sep": 0.9,
+      "Oct": 0.4,
+      "Nov": 1.6,
+      "Dec": 2.0
+    }
+  }
+]
